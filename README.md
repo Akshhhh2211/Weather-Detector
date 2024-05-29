@@ -3,7 +3,7 @@
 The **WeatherApp** is a **web application** built using **React.js**. It leverages the **www.weatherapi.com** API to retrieve detailed weather information for a given city.
 
 ## Live Demo
-Check out [Live Demo] (https://main--whatscurrentweather.netlify.app/) deployed on Vercel.
+Check out https://main--whatscurrentweather.netlify.app/ deployed on Netlify.
 
 ## Prerequisites
 
